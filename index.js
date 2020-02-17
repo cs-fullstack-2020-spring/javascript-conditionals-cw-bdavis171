@@ -31,7 +31,7 @@
 //     alert("The sum of " + num1 + " and " + num2 + " is odd.");
 // }
 
-//Problem 4
+// // Problem 4
 // let secretWord = "secret";
 // let userWord1 = prompt("Enter a word");
 // let userWord2 = prompt("Enter another word");
@@ -50,36 +50,36 @@
 //     alert("Locked Out");
 // }
 
-//Challenge
-let day = prompt("Enter a day of the week");
+//Challenglet day = prompt("Enter a day of the week");
 
-if (day == "Monday" || day == "monday") {
-    alert("Monday is 'lunes' in Spanish");
-}
+// if (day == "Monday" || day == "monday") {
+//     alert("Monday is 'lunes' in Spanish");
+// }
 
-else if (day == "Tuesday" || day == "tuesday"){
-    alert("Tuesday is 'martes' in Spanish");
-}
+// else if (day == "Tuesday" || day == "tuesday"){
+//     alert("Tuesday is 'martes' in Spanish");
+// }
 
-else if (day == "Wednesday" || day == "wednesday"){
-    alert("Wednesday is 'miercoles' in Spanish");
-}
+// else if (day == "Wednesday" || day == "wednesday"){
+//     alert("Wednesday is 'miercoles' in Spanish");
+// }
 
-else if (day == "Thursday" || day == "thursday"){
-    alert("Thursday is 'jueves' in Spanish");
-}
+// else if (day == "Thursday" || day == "thursday"){
+//     alert("Thursday is 'jueves' in Spanish");
+// }
 
-else if (day == "Friday" || day == "friday"){
-    alert("Friday is 'viernes' in Spanish");
-}
+// else if (day == "Friday" || day == "friday"){
+//     alert("Friday is 'viernes' in Spanish");
+// }
 
-else if (day == "Saturday" || day == "saturday"){
-    alert("Saturday is 'sabado' in Spanish");
-}
-else if (day == "Sunday" || day == "sunday"){
-    alert("Sunday is 'domingo' in Spanish");
-}
+// else if (day == "Saturday" || day == "saturday"){
+//     alert("Saturday is 'sabado' in Spanish");
+// }
+// else if (day == "Sunday" || day == "sunday"){
+//     alert("Sunday is 'domingo' in Spanish");
+// }
 
-else {
-    alert("That is not a day of the week in English");
-}
+// else {
+//     alert("That is not a day of the week in English");
+// }e
+// 
